@@ -1,0 +1,1116 @@
+
+
+div{
+    width:100%;
+    height: 100%;
+    
+}
+
+#navbar{
+    width: 100%;
+    height: 75px;
+    background-color: rgb(71,97,255);
+    
+}
+
+#logo{
+    color: white;
+    margin-left: 80px;
+    padding-top: 20px;
+   
+   
+}
+
+.a{
+    float: right;
+    list-style-type: none;
+    margin-right: 150px;
+    margin-top: -50px;
+   
+
+
+}
+.a #a{
+    float: left;
+    margin-right: 40px;
+   
+}
+
+#b{
+    text-decoration: none;
+    color: white;
+}
+span{
+    float: right;
+    font-size: 30px;
+   margin-top: -60px;
+   color: white;
+   margin-right: 60px;
+   
+}
+
+#navbar2{
+    width: 100%;
+    height: 75px;
+    box-shadow: 2px 2px 1px white;
+    position: sticky;
+    top: 0px;
+    background-color: white;
+    margin: 0px;
+    padding: 0px;
+    
+
+}
+
+.b{
+    list-style-type: none;
+    margin-left: 50px;
+
+}
+
+#c{
+    float: left;
+    margin-right: 40px;
+    margin-top: 10px;
+    
+    
+}
+#d:hover{
+    color: blue;
+}
+
+#d{
+    text-decoration: none;
+    font-size: 20px;
+    color: black;
+}
+
+#button1{
+    float: right;
+    margin-right: 60px;
+    padding: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 20px;
+    margin-top: 10px;
+    background-color: rgb(70,95,251);
+    color: white;
+}
+
+#navbar3{
+    width: 100%;
+    height: 700px;
+    background-image: url(../images/image\ 1.png);
+    background-size: cover;
+   margin-top: -200px;
+}
+
+#e{
+    margin-left: 80px;
+    margin-top: 150px;
+    color: white;
+    padding-top: 200px;
+    
+}
+#name{
+    color: white;
+    margin-left: 80px;
+    font-size: 50px;
+
+
+}
+
+#f{
+    margin-left: 80px;
+    font-size: 80px;
+    color: white;
+    
+}
+#f1{
+    margin-left: 80px;
+    font-size: 80px;
+    color: white;
+    margin-top: -50px;
+
+}
+
+#button2{
+    margin-left: 80px;
+    padding: 15px;
+    background-color: rgb(71,97,255);
+    color: white;
+    border-radius: 25px;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+#navbar4{
+    width: 100%;
+    height:410px;
+
+}
+
+
+#g1{
+    width: 250px;
+    height: 250px;
+    float: right;
+    margin-top: 80px;
+    margin-right:120px;
+    box-shadow: 5px 5px 2px rgb(222, 221, 221);
+
+}
+
+#g2{
+    width: 250px;
+    height: 250px;
+    float: right;
+    margin-top: 80px;
+    box-shadow: 5px 5px 2px rgb(222, 221, 221);
+   
+}
+
+#g3{
+    width: 250px;
+    height: 250px;
+    float: right;
+    margin-top: 80px;
+    box-shadow: 5px 5px 2px rgb(222, 221, 221);
+}
+
+#g4{
+    width: 250px;
+    height: 250px;
+    float: right;
+    margin-top: 80px;
+    box-shadow: 5px 5px 2px rgb(222, 221, 221);
+}
+
+#image2{
+    margin-top: 40px;
+    margin-left: 40px;
+}
+
+#g11{
+    margin-left: 40px;
+    font-size: 20px;
+
+}
+
+#g22{
+    margin-left: 40px;
+    font-size: 20px;
+
+}
+
+#g33{
+    margin-left: 40px;
+    font-size: 20px;
+
+}
+
+#g44{
+    margin-left: 40px;
+    font-size: 20px;
+
+}
+
+#span1{
+    color: gray;
+    font-size: 20px;
+    margin-top: 1px;
+    
+}
+
+
+#about{
+    width: 100%;
+    height: 800px;
+    background-image: url(../images/about.png);
+    background-size: cover;
+
+}
+
+#button3{
+    margin-top: 300px;
+    margin-left: 300px;
+    border-radius: 100%;
+    font-size: 100px;
+   
+    
+}
+
+#about1{
+    width: 600px;
+    height: 700px;
+    float: right;
+    margin-right: 100px;
+    margin-top: 100px;
+    background-color: white;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+
+}
+#aboutus{
+    color: blue;
+    font-size: 20px;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+
+
+#about11{
+    font-size: 40px;
+    margin-top: 30px;
+    margin-left: 50px;
+}
+
+#about12{
+    color: gray;
+    font-size: 20px;
+    margin-left: 50px;
+    margin-top: -20px;
+}
+
+#about21{
+    width: 250px;
+    height: 200px;
+    float: right;
+    margin-right: 50px;
+    margin-top: 30px;
+}
+
+#about23{
+    margin-left: 40px;
+}
+
+#about22{
+    width: 250px;
+    height: 200px;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+#about24{
+    margin-left: 40px;
+}
+
+
+#span21{
+    color: blue;
+    font-size: 20px;
+    margin-top: 20px;
+    
+
+}
+#span22{
+    color: gray;
+    font-size: 15px;
+    margin-top: 20px;
+}
+
+#span31{
+    color: blue;
+    font-size: 20px;
+    margin-top: 20px;
+    
+
+}
+#span32{
+    color: gray;
+    font-size: 15px;
+    margin-top: 20px;
+}
+
+#button4{
+    margin-top: 50px;
+    margin-left: 50px;
+    padding-left: 70px;
+    padding-right: 70px;
+    background-color: blue;
+    color: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-radius: 30px;
+}
+
+#services{
+    width: 100%;
+    height: 1000px;
+}
+
+#services1{
+    width: 100%;
+    height: 300px;
+}
+
+#services11{
+    color: blue;
+    margin-top: 100px;
+}
+
+#services12{
+    font-size: 50px;
+    margin-top: -5px;
+}
+
+#services21{
+    width: 340px;
+    height: 300px;
+    float: right;
+    margin-right: 80px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 2px rgb(222, 221, 221);
+}
+
+#services211{
+    margin-top: 50px;
+    margin-left: 120px;
+}
+
+#services2111:hover{
+    color: blue;
+
+}
+#services121{
+    color: gray;
+    font-size: 20px;
+}
+
+#services22{
+    width: 340px;
+    height: 300px;
+    float: right;
+    margin-right: 30px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 2px rgb(222, 221, 221);
+}
+
+#services212{
+    margin-top: 50px;
+    margin-left: 120px;
+}
+#services2122:hover{
+    color: blue;
+
+}
+#services122{
+    color: gray;
+    font-size: 20px;
+}
+
+
+
+#services23{
+    width: 340px;
+    height: 300px;
+    float: right;
+    margin-right: 30px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 2px rgb(222, 221, 221);
+
+}
+
+
+#services213{
+    margin-top: 50px;
+    margin-left: 120px;
+}
+#services2133:hover{
+    color: blue;
+
+}
+#services123{
+    color: gray;
+    font-size: 20px;
+}
+
+
+
+#services24{
+    width: 340px;
+    height: 300px;
+    float: right;
+    margin-right: 80px;
+    margin-top: 30px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 2px rgb(222, 221, 221);
+}
+
+#services214{
+    margin-top: 50px;
+    margin-left: 120px;
+}
+#services2144:hover{
+    color: blue;
+
+}
+#services124{
+    color: gray;
+    font-size: 20px;
+}
+
+
+
+#services25{
+    width: 340px;
+    height: 300px;
+    float: right;
+    margin-right: 30px;
+    margin-top: 30px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 2px rgb(222, 221, 221);
+}
+
+#services215{
+    margin-top: 50px;
+    margin-left: 120px;
+}
+#services2155:hover{
+    color: blue;
+
+}
+#services125{
+    color: gray;
+    font-size: 20px;
+}
+
+
+
+#services26{
+    width: 340px;
+    height: 300px;
+    float: right;
+    margin-right: 30px;
+    margin-top: 30px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 2px rgb(222, 221, 221);
+}
+
+#services216{
+    margin-top: 50px;
+    margin-left: 120px;
+}
+#services2166:hover{
+    color: blue;
+
+}
+#services126{
+    color: gray;
+    font-size: 20px;
+}
+
+
+#projects{
+    width: 100%;
+    height: 600px;
+}
+
+#projects1{
+    width: 100%;
+    height: 200px;
+}
+#projects11{
+    color: blue;
+    margin-left: 80px;
+     
+}
+#projects12{
+    font-size: 40px;
+    margin-top: -3px;
+    margin-left: 80px;
+}
+
+#project2{
+    width: 340px;
+    height: 370px;
+    float: right;
+    margin-right: 85px;
+    border-radius: 10px;
+}
+#project21{
+    width: 100%;
+    height:250px ;
+    background-image: url(../images/project1.png);
+    background-size: cover;
+
+}
+#project22{
+    margin-left: 20px;
+}
+#project23{
+    margin-left: 20px;
+    color: gray;
+}
+
+#project3{
+    width: 340px;
+    height: 370px;
+    float: right;
+    margin-right: 30px;
+    border-radius: 10px;
+}
+#project31{
+    width: 100%;
+    height:250px ;
+    background-image: url(../images/project-2.png);
+    background-size: cover;
+
+}
+#project32{
+    margin-left: 20px;
+}
+#project33{
+    margin-left: 20px;
+    color: gray;
+}
+
+#project4{
+    width: 340px;
+    height: 370px;
+    float: right;
+    margin-right: 30px;
+    border-radius: 10px;
+}
+#project41{
+    width: 100%;
+    height:250px ;
+    background-image: url(../images/project-3.png);
+    background-size: cover;
+    
+
+}
+#project42{
+    margin-left: 20px;
+}
+#project43{
+    margin-left: 20px;
+    color: gray;
+}
+
+
+#quote{
+    width: 100%;
+    height: 600px;
+}
+
+#quote1{
+    width: 50%;
+    height: 600px;
+    float: right;
+}
+#quote12{
+    margin-top: 60px;
+    margin-left: 50px;
+}
+#quote13{
+    margin-left: 50px;
+    padding: 20px;
+    padding-right: 50px;
+    border-radius: 10px;
+}
+#quote14{
+    
+    padding: 20px;
+    border-radius: 10px;
+    padding-right: 50px;
+    margin-left: 10px;
+}
+#quote15{
+    margin-left: 50px;
+    padding: 20px;
+    border-radius: 10px;
+    padding-right: 50px;
+    margin-top: 20px;
+}
+#quote16{
+    
+    padding: 20px;
+    border-radius: 10px;
+    padding-right: 50px;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+#quote17{
+    margin-left: 50px;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+#quote18{
+    margin-left: 50px;
+    margin-top: 20px;
+    background-color: blue;
+    color: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 210px;
+    padding-right: 200px;
+    border-radius: 10px;
+}
+
+
+#quote21{
+    color: blue;
+    margin-left: 50px;
+    margin-top: 60px;
+}
+#quote22{
+    margin-left: 50px;
+    font-size: 50px;
+    margin-top: -5px;
+}
+#quote23{
+    margin-left: 50px;
+    color: gray;
+    font-size: 20px;
+    margin-top: -20px;
+}
+#quote24{
+    
+    margin-top: 20px;
+    margin-left: 50px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 70px;
+    padding-right: 70px;
+    border-radius: 10px;
+    font-size: 20px;
+    color: blue;
+
+}
+
+
+#team{
+    width: 100%;
+    height: 600px;
+}
+
+#team1{
+    width: 100%;
+    height: 200px;
+}
+#team11{
+    color: blue;
+}
+#team12{
+    font-size: 40px;
+    margin-top: -3px;
+}
+
+#team2{
+    width: 100%;
+    height: 400px;
+}
+
+#team3{
+    width: 270px;
+    height: 400px;
+    float: right;
+    border-radius: 10px;
+    margin-right: 55px;
+    box-shadow: 5px 5px 2px rgb(222, 221, 221);
+
+}
+#team31{
+    width: 270px;
+    height: 300px;
+    background-image: url(../images/team-1.png);
+    background-size: cover;
+}
+#team32{
+    color: blue;
+    font-size: 20px;
+    margin-top: -10px;
+}
+#team4{
+    width: 270px;
+    height: 400px;
+    float: right;
+    border-radius: 10px;
+    margin-right: 20px;
+    box-shadow: 5px 5px 2px rgb(222, 221, 221);
+
+}
+#team41{
+    width: 270px;
+    height: 300px;
+    background-image: url(../images/team-2.png);
+    background-size: cover;
+}
+#team42{
+    color: blue;
+    font-size: 20px;
+    margin-top: -10px;
+}
+#team5{
+    width: 270px;
+    height: 400px;
+    float: right;
+    border-radius: 10px;
+    margin-right: 20px;
+    box-shadow: 5px 5px 2px rgb(222, 221, 221);
+
+}
+#team51{
+    width: 270px;
+    height: 300px;
+    background-image: url(../images/team-3.png);
+    background-size: cover;
+    
+}
+#team52{
+    color: blue;
+    font-size: 20px;
+    margin-top: -10px;
+}
+#team6{
+    width: 270px;
+    height: 400px;
+    float: right;
+    border-radius: 10px;
+    margin-right: 20px;
+    box-shadow: 5px 5px 2px rgb(222, 221, 221);
+
+}
+#team61{
+    width: 270px;
+    height: 300px;
+    background-image: url(../images/team-4.png);
+    background-size: cover;
+}
+#team62{
+    color: blue;
+    font-size: 20px;
+    margin-top: -10px;
+}
+
+
+#clients{
+    width: 100%;
+    height: 600px;
+}
+
+#clients1{
+    width: 100%;
+    height: 200px;
+}
+#clients11{
+    color: blue;
+    margin-left: 80px;
+}
+#clients12{
+    font-size: 50px;
+    margin-left: 80px;
+    margin-top: -10px;
+
+}
+
+#clients2{
+    width: 340px;
+    height: 400px;
+    margin-right: 85px;
+    float: right;
+    border-radius: 10px;
+    box-shadow: 5px 5px 2px rgb(222, 221, 221);
+}
+#clients2:hover{
+    background-color: blue;
+    color: white;
+}
+
+#clients21{    
+    border-radius: 100%;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+#clients22{
+    margin-left: 50px;
+    color: gray;
+    font-size: 20px;
+}
+#clients22:hover{
+    color: white;
+}
+#clients23{
+    margin-left: 50px;
+}
+#clients24{
+    margin-left: 50px;
+    color: blue;
+    font-size: 20px;
+}
+#clients24:hover{
+    color: white;
+}
+#clients3{
+    width: 340px;
+    height: 400px;
+    margin-right: 30px;
+    float: right;
+    border-radius: 10px;
+    background-color: blue;
+}
+#clients31{    
+    border-radius: 100%;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+#clients32{
+    margin-left: 50px;
+    color:white;
+    font-size: 20px;
+}
+#clients33{
+    margin-left: 50px;
+    color: white;
+}
+#clients34{
+    margin-left: 50px;
+    color:white;
+    font-size: 20px;
+}
+#clients4{
+    width: 340px;
+    height: 400px;
+    margin-right: 30px;
+    float: right;
+    border-radius: 10px;
+    box-shadow: 5px 5px 2px rgb(222, 221, 221);
+}
+#clients4:hover{
+    background-color: blue;
+    color: white;
+}
+
+#clients41{    
+    border-radius: 100%;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+#clients42{
+    margin-left: 50px;
+    color: gray;
+    font-size: 20px;
+}
+#clients42:hover{
+    color: white;
+}
+#clients43{
+    margin-left: 50px;
+}
+#clients44{
+    margin-left: 50px;
+    color: blue;
+    font-size: 20px;
+}
+#clients44:hover{
+    color: white;
+}
+
+#contact{
+    width: 100%;
+    height: 500px;
+}
+#empty{
+    width: 100%;
+    height: 100px;
+}
+#contact1{
+    width: 100%;
+    height: 400px;
+    background-color: rgb(28,32,53);
+}
+
+#contact2{
+    width: 270px;
+    height: 400px;
+    float: right;
+    border-radius: 10px;
+    margin-right: 55px;
+}
+
+#letter{
+    color: white;
+    margin-top: 80px;
+    margin-left: 20px; 
+}
+#contact21{
+    color: rgb(209, 206, 206);
+    font-size: 18px;
+    margin-left: 20px;
+    margin-top: 20px;
+    
+}
+#contact22{
+    background-color: rgb(28,32,53);
+    color: rgb(209, 206, 206);
+    margin-left:20px ;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-bottom-left-radius: 10px;
+    border-top-left-radius: 10px;
+    border-color: white;
+}
+#signup{
+    padding-bottom: 10px;
+    padding-top: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+
+
+#contact3{
+    width: 270px;
+    height: 400px;
+    float: right;
+    border-radius: 10px;
+    margin-right: 20px;
+}
+
+#contact31{
+    color: white;
+    margin-top: 80px;
+    margin-left: 20px;
+}
+#day{
+    color:rgb(209, 206, 206);
+    margin-top: 20px;
+    margin-left: 20px;
+    font-size: 18px;
+}
+#time{
+    color: white;
+    margin-left: 20px;
+    font-size: 18px;
+    margin-top: -10px;
+}
+#day1{
+    color: rgb(209, 206, 206);
+    margin-left: 20px;
+    font-size: 18px;
+    margin-top: -10px;
+
+}
+#time1{
+    color: white;
+    margin-left: 20px;
+    font-size: 18px;
+    margin-top: -10px;
+}
+#day2{
+    color:rgb(209, 206, 206);
+    margin-left: 20px;
+    font-size: 18px;
+    margin-top: -10px;
+
+}
+#time2{
+    color: white;
+    margin-left: 20px;
+    font-size: 18px;
+    margin-top: -10px;
+}
+
+
+
+#contact4{
+    width: 270px;
+    height: 400px;
+    float: right;
+    border-radius: 10px;
+    margin-right: 20px;
+}
+#contact41{
+    color: white;
+    margin-top: 80px;
+    margin-left: 20px;
+}
+#contact42{
+    list-style-type:none;
+    color: white;
+    
+}
+#contact43{
+    margin-top: 10px;
+    
+}
+#contact44{
+    color: rgb(209, 206, 206);
+    text-decoration: none;
+    font-size: 18px;
+}
+#contact44:hover{
+    color: white;
+}
+
+
+
+
+#contact5{
+    width: 280px;
+    height: 400px;
+    float: right;
+    border-radius: 10px;
+    margin-right: 20px;
+}
+#contact51{
+    color: white;
+    margin-top: 80px;
+    margin-left: 20px;
+}
+#contact52{
+    
+    list-style-type: none;
+}
+#contact53{
+    margin-top: 20px;
+    margin-left: -20px;
+   
+}
+#contact54{
+    color: rgb(209, 206, 206);
+    text-decoration: none;
+    font-size: 18px;
+}
+#contact55{
+    color: white;
+    font-size: 30px;
+    margin-left: 20px;
+    margin-top: 30px;
+}
+
+
+
+#design{
+    width: 100%;
+    height: 100px;
+    background-color: rgb(17,17,17);
+    margin-top: -20px;
+}
+#design1{
+    float: right;
+    color: white;
+    font-size: 20px;
+    margin-top: 40px;
+    margin-right: 80px;
+    
+}
+
+
+#design2{
+    color: white;
+    margin-left: 50px;
+    font-size: 20px;
+    padding-top: 40px;
+}
+#design2:hover{
+    color: blue;
+}
+#design3{
+    color: white;
+    margin-left: 200px;
+   margin-top: -41px;
+    font-size: 20px;
+    
+}
+
